@@ -191,6 +191,14 @@ The Excel dashboard provides a **monthly operational reporting view** with year/
 
 ![Hospital Emergency Room Dashboard](hospital_emergency_room_management_Analysis_Dashboard_images/Hospital%20Management%20Excel%20Project%20Image.png)
 
+### 📊 Supporting Trend Analysis
+
+![Average Wait Time Trend](hospital_emergency_room_management_Analysis_Dashboard_images/Avg%20Wait%20Time%20Trend.png)
+
+![Daily Number of Patients Trend](hospital_emergency_room_management_Analysis_Dashboard_images/Daily%20No%20of%20Patient%20Trend.png)
+
+![Patient Satisfaction Trend](hospital_emergency_room_management_Analysis_Dashboard_images/Patient%20satisfaction%20trend.png)
+
 > **Dashboard purpose:** provide a concise management view of workload, service-time performance, patient experience, and patient segmentation.
 
 ---
