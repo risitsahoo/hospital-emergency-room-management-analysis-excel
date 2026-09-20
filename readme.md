@@ -11,6 +11,29 @@
 
 ---
 
+## 📑 Table of Contents
+
+- [📌 Project Overview](#-project-overview)
+- [❗ Business Problem](#-business-problem)
+- [🎯 Business Objectives](#-business-objectives)
+- [🗂️ Dataset Overview](#-dataset-overview)
+- [🛠️ Tools & Techniques](#-tools--techniques)
+- [🧹 Data Preparation](#-data-preparation)
+- [⚙️ Analytical Workflow](#-analytical-workflow)
+- [📊 Dashboard](#-dashboard)
+- [📈 Key Performance Indicators](#-key-performance-indicators)
+- [🔎 Key Insights](#-key-insights)
+- [💡 Business Recommendations](#-business-recommendations)
+- [📁 Repository Structure](#-repository-structure)
+- [🚀 How to Run](#-how-to-run)
+- [⚠️ Data Quality & Limitations](#-data-quality--limitations)
+- [📄 Detailed Reports](#-detailed-reports)
+- [🏁 Conclusion](#-conclusion)
+- [📬 Contact](#-contact)
+- [⭐ Project Highlights](#-project-highlights)
+
+---
+
 ## 📌 Project Overview
 
 This individual portfolio project demonstrates a practical **data analysis and operational reporting workflow using Microsoft Excel**.
@@ -166,7 +189,7 @@ The Excel dashboard provides a **monthly operational reporting view** with year/
 - Gender Distribution
 - Year / Month Selectors
 
-![Hospital Emergency Room Dashboard](ddashboard/hospital_dashboard.png)
+![Hospital Emergency Room Dashboard](hospital_emergency_room_management_Analysis_Dashboard_images/Hospital%20Management%20Excel%20Project%20Image.png)
 
 > **Dashboard purpose:** provide a concise management view of workload, service-time performance, patient experience, and patient segmentation.
 
@@ -317,9 +340,9 @@ With **9,216 records across 19 months**, the project demonstrates practical capa
 **Aspiring Data Analyst | Excel | SQL | Power BI | Python**
 
 - 📍 Bengaluru, India
-- 📧 Email: risit.sahoo121@gmail.com  
-- 🐙 [GitHub](https://github.com/risitsahoo)
-- 💼 [LinkedIn](https://www.linkedin.com/)
+- 📧 Email: risit.sahoo121@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/risitsahoo 
+- 🐙 GitHub: https://github.com/risitsahoo
 
 **Open to Data Analyst, BI Analyst, MIS Analyst and Business Analyst opportunities.**
 
