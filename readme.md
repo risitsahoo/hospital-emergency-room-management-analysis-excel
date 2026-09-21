@@ -332,7 +332,6 @@ cd hospital-emergency-room-analytics
 For readers who want the full analytical documentation:
 
 - **Full-Period Report:** `reports/Hospital_Emergency_Room_Analytics_Full_Period_Report.pdf`
-- **October 2024 Supporting Analysis:** `reports/Hospital_Emergency_Room_Analytics_October_2024_Report.pdf`
 
 > **README = project overview | Workbook = analysis | Reports = detailed documentation**
 
