@@ -280,6 +280,7 @@ Hospital-Emergency-Room-Analytics/
 
 ---
 
+<a id="how-to-run-custom"></a>
 ## 🚀 How to Run
 
 ### Open the Workbook
