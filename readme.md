@@ -16,17 +16,17 @@
 - [📌 Project Overview](#-project-overview)
 - [❗ Business Problem](#-business-problem)
 - [🎯 Business Objectives](#-business-objectives)
-- [🗂️ Dataset Overview](#-dataset-overview)
-- [🛠️ Tools & Techniques](#-tools--techniques)
+- [🗂️ Dataset Overview](#dataset-overview-custom)
+- [🛠️ Tools & Techniques](#tools-techniques-custom)
 - [🧹 Data Preparation](#-data-preparation)
-- [⚙️ Analytical Workflow](#-analytical-workflow)
+- [⚙️ Analytical Workflow](#analytical-workflow-custom)
 - [📊 Dashboard](#-dashboard)
 - [📈 Key Performance Indicators](#-key-performance-indicators)
 - [🔎 Key Insights](#-key-insights)
 - [💡 Business Recommendations](#-business-recommendations)
 - [📁 Repository Structure](#-repository-structure)
-- [🚀 How to Run](#-how-to-run)
-- [⚠️ Data Quality & Limitations](#-data-quality--limitations)
+- [🚀 How to Run](#how-to-run-custom)
+- [⚠️ Data Quality & Limitations](#data-quality-limitations-custom)
 - [📄 Detailed Reports](#-detailed-reports)
 - [🏁 Conclusion](#-conclusion)
 - [📬 Contact](#-contact)
@@ -86,6 +86,7 @@ This project addresses questions such as:
 
 ---
 
+<a id="dataset-overview-custom"></a>
 ## 🗂️ Dataset Overview
 
 **Source:** Publicly sourced Kaggle Emergency Room dataset.
@@ -106,6 +107,7 @@ This project addresses questions such as:
 
 ---
 
+<a id="tools-techniques-custom"></a>
 ## 🛠️ Tools & Techniques
 
 **Primary Tool:** Microsoft Excel
@@ -142,6 +144,7 @@ This project addresses questions such as:
 
 ---
 
+<a id="analytical-workflow-custom"></a>
 ## ⚙️ Analytical Workflow
 
 ```text
@@ -306,6 +309,7 @@ cd hospital-emergency-room-analytics
 
 ---
 
+<a id="data-quality-limitations-custom"></a>
 ## ⚠️ Data Quality & Limitations
 
 - **9,216 unique records** covering April 2023 – October 2024
