@@ -278,6 +278,8 @@ Hospital-Emergency-Room-Analytics/
 ├── 🖼  hospital_emergency_room_management_Analysis_Dashboard_images (.png)           # Dashboard screenshot
 ├── 📘 readme.md                                                                     # Project documentation
 
+```                                      
+
 ---
 
 <a id="how-to-run-custom"></a>
